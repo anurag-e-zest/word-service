@@ -12,7 +12,7 @@
 	<groupId>com.anurag.word-service</groupId>
 	<artifactId>word-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>word-service</name>
 	<description>Word-service project for Spring Boot</description>
 	<properties>
